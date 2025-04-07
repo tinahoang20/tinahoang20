@@ -25,7 +25,7 @@
 - Built an interactive dashboard using Power BI to track campaign performance.
 - Visualized KPIs such as ROI, CTR, and conversion rates.
 
-### 2️⃣ [SEO Optimization for Unilever](#)
+### 2️⃣ [Website Optimization for Unilever](#)
 - Implemented SEO strategies and conducted website performance analysis using Google Analytics and Google Lighthouse.
 - Collaborated with cross-functional teams to enhance user experience and site speed.
 - Monitored website performance metrics such as site speed, bounce rate, and conversion rates, providing actionable insights and recommendations for continuous improvement.
