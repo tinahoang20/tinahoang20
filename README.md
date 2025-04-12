@@ -37,7 +37,7 @@
 ---
 
 ## 🎖 Achievements
-- 🏆 Best Student of the Semester (Fall 2020, Summer 2021).
+- 🏆 Best Student of the Semester (Fall 2020, Summer 2021). The Most Outstanding Student of the Semester (Fall 2022)
 - 📜 Certified in Google Ads & HubSpot Content Marketing.
 
 ---
